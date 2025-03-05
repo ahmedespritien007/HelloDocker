@@ -1,2 +1,3 @@
-# HelloDocker
-Test de bout en bout Docker
+# A Hello World Spring Boot App
+
+A Hello World Spring Boot app.
